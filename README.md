@@ -1,3 +1,3 @@
 # Gmailkiller
 Brute Gmail smtp server 
-usage : sudo python GmailKiller.py 
+usage : sudo python Gmailkiller.py
