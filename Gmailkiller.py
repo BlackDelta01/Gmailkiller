@@ -14,6 +14,8 @@ banner = '''
 
                                                                       '''
 
+print (banner)
+
 user = raw_input("Enter the target's email address : ")
 passwordfile =raw_input("Enter the path of the password list : ")
 passwordfile = open(passwordfile,'read')
